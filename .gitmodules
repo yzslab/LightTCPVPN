@@ -1,0 +1,3 @@
+[submodule "simple-event"]
+	path = simple-event
+	url = https://github.com/yzsme/simple-event.git
