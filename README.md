@@ -1,2 +1,2 @@
 # Light TCP VPN
-Based on tun/tap
+Light VPN, TCP based, event driven, tun/tap implemented.
